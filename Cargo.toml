@@ -2,3 +2,4 @@
 name = "lexical-lifetime"
 version = "1.0.0"
 edition = "2018"
+repository = "https://github.com/That3Percent/lexical-lifetime"
